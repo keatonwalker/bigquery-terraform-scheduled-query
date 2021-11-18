@@ -1,0 +1,10 @@
+# terraform
+*.terraform/
+.terraform.lock*
+.terraform.tfstate*
+*.tfstate
+*.backup
+*.lock.info
+
+# project
+.DS_Store
